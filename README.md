@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackholbrook
 - 👀 I’m interested in computer programming, data analysis and machine learning, geometry, and geography. 
-- 🌱 I’m currently a computer science post bachelor's certificate student at Seattle Uiversity
+- 🌱 I’m currently a computer science post bachelor's certificate student at Seattle University.
 - 💞️ I’m looking to collaborate on projects that involve analysing or capturing spatial data.
 - 📫 How to reach me: jholbrook@seattleu.edu
 
