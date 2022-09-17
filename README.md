@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @jackholbrook
-- 👀 I’m interested in computer programming, data analysis and machine learning, geometry, and geography. 
-- 🌱 I’m currently a computer science post bachelor's certificate student at Seattle University.
-- 💞️ I’m looking to collaborate on projects that involve analysing or capturing spatial data.
-- 📫 How to reach me: jholbrook@seattleu.edu
+- 👋 Hi, I’m Stella! I am currently applying to PhD programs in CISE for fall of 2023. Please continue to check this space over the months of September, October, November and December of 2022 as I post updates to my website and projects of passion. 
+- 📫 How to reach me: jrh@ucsb.edu
 
 <!---
 jackholbrook/jackholbrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
