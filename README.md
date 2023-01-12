@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stella! I am currently applying to PhD programs in CISE for fall of 2023. Please continue to check this space over December of 2022 as I post updates to my website and projects of passion. 
+- 👋 Hi, I’m Stella! I am currently applying to PhD programs in CISE for fall of 2023. Please continue to check this space over 2023 as I post updates to my website and projects of passion. 
 - 📫 How to reach me: jrh@ucsb.edu
 
 <!---
